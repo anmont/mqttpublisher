@@ -1,0 +1,1 @@
+const demopub = require('.')
